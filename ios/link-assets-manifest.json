@@ -1,0 +1,73 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Nunito-Black.ttf",
+      "sha1": "4cc90afa7c27a1780aaa5c6be1ff5686d41e4f0b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-BlackItalic.ttf",
+      "sha1": "a2ce68249204720d575657753c1354b552da4db4"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-Bold.ttf",
+      "sha1": "70292fbf4c935b218862ba27891d910a512f0197"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-BoldItalic.ttf",
+      "sha1": "4d87c0a603fd76602a2b64437dde564c69e71637"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-ExtraBold.ttf",
+      "sha1": "91d04b8576443582259cf57bb7a04e3ea7f6892e"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-ExtraBoldItalic.ttf",
+      "sha1": "845e4043f32189d99cda3787de7c74821b86f300"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-ExtraLight.ttf",
+      "sha1": "101ddd979e388fdd83c193b896125ee5be1dc8e1"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-ExtraLightItalic.ttf",
+      "sha1": "0a95f42f12e4b9bb48bbed08c62902e94dc64376"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-Light.ttf",
+      "sha1": "2e44df30094b35c8a1a80a54d673d9733907ab21"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-LightItalic.ttf",
+      "sha1": "f995eb5dce089c014716cb2a5e8b31b1e98aafa9"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-Regular.ttf",
+      "sha1": "b1029b1d966d1732e6241677773393a313585fb3"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-SemiBold.ttf",
+      "sha1": "3e61467ff34842c4e963dc41472d409e11b6017b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-SemiBoldItalic.ttf",
+      "sha1": "35dbc95376ae7917daa3cf4c94dd4df31d704c5b"
+    },
+    {
+      "path": "src/assets/fonts/NunitoSans-Bold.ttf",
+      "sha1": "cb00028cf8a1cf7fb5f98a1fac8d52593f338497"
+    },
+    {
+      "path": "src/assets/fonts/NunitoSans-Light.ttf",
+      "sha1": "0a06ff16ea3d8a7618e84476cb8ba5daefd83dbb"
+    },
+    {
+      "path": "src/assets/fonts/NunitoSans-Regular.ttf",
+      "sha1": "1fe766ed249b78f9d85c83be1448b2aeb0a4c501"
+    },
+    {
+      "path": "src/assets/fonts/NunitoSans-SemiBold.ttf",
+      "sha1": "335a7ab64791ffd7bc40b4b3a3ca83851d4ed26d"
+    }
+  ]
+}
